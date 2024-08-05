@@ -1,0 +1,16 @@
+
+npm create vite@latest
+npm install
+npm install react-router-dom
+npm install react-google-charts
+npm run dev
+
+ // npm install -g npm@10.8.2 (optional)
+
+ sources->
+ CoinGecko API
+ reactjs
+ 
+
+api- CG-Rh89uEbGZCWN53567EctdX5W
+
